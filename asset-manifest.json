@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-payments/static/css/main.521a994e.css",
+    "main.js": "/react-payments/static/js/main.f5a70df2.js",
+    "index.html": "/react-payments/index.html",
+    "static/media/left-icon.svg": "/react-payments/static/media/left-icon.e35d21bd6eb4c923e918de8f4aaf2673.svg",
+    "main.521a994e.css.map": "/react-payments/static/css/main.521a994e.css.map",
+    "main.f5a70df2.js.map": "/react-payments/static/js/main.f5a70df2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521a994e.css",
+    "static/js/main.f5a70df2.js"
+  ]
+}
